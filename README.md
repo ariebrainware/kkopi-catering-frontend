@@ -8,7 +8,7 @@ If you are want to contribute, you can fork this repo and make as your own repo.
 
 ### FAQ
 1.  How can i contribute?
-    A: You can help us create new feature, maintain existing code, give us an idea in 
+    A: You can help us create new feature, maintain existing code, give us an idea in [Idea Board](https://github.com/ariebrainware/kkopi-catering/projects/1#column-4146048)
 
 ## Installation
 You can follow this step to setup
